@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.Probability Distribution.iml
+/modules.xml
+# Datasource local storage ignored files
+/../../../../../../:\Projects\Probability-Distribution\.idea\.idea.Probability Distribution\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
